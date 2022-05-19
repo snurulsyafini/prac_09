@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Demos of various os module examples
+Clean up file names of Lyrics
 """
 import os
 
